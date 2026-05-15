@@ -10,6 +10,6 @@ In Java we have six different smallest unit in order to deploy Java Program.
 
 Veriables : There are the named memories which are used in order to store some vlues.
 
-DataTypes: 2 types ( Pretive & Non Premitive )
+DataTypes: 
 
-Type of dataTypes : 
+Type of dataTypes : 2 types ( Pretive & Non Premitive )
