@@ -69,4 +69,4 @@ public class Demo {
         System.out.println(grade);
         System.out.println(result);
     }
-} ABCDE
+} ABCD
